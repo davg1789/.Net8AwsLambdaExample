@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AWSLambdaExample", "AWSLambdaExample\AWSLambdaExample.csproj", "{7696E6AA-18EE-4CDD-8A8B-A1D1BF0D9AFE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AWSLambdaExample.Test.Tests", "AWSLambdaExample.Test.Tests\AWSLambdaExample.Test.Tests.csproj", "{3E203782-359D-4549-8832-AFBE919522B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7696E6AA-18EE-4CDD-8A8B-A1D1BF0D9AFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7696E6AA-18EE-4CDD-8A8B-A1D1BF0D9AFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7696E6AA-18EE-4CDD-8A8B-A1D1BF0D9AFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7696E6AA-18EE-4CDD-8A8B-A1D1BF0D9AFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E203782-359D-4549-8832-AFBE919522B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E203782-359D-4549-8832-AFBE919522B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E203782-359D-4549-8832-AFBE919522B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E203782-359D-4549-8832-AFBE919522B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1EF4B4DC-F22D-4C95-BDB6-236FC4F48B4B}
+	EndGlobalSection
+EndGlobal
